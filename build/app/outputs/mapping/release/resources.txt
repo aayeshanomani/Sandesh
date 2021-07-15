@@ -2126,7 +2126,9 @@ Referenced Strings:
   getAccessToken
   getAll
   getAlpnSelectedProtocol
+  getApplicationDocumentsDirectory
   getApplicationProtocol
+  getApplicationSupportDirectory
   getBoolean
   getByte
   getChildId
@@ -2135,6 +2137,8 @@ Referenced Strings:
   getDeferredComponentInstallState
   getDouble
   getEmptyRegistry
+  getExternalCacheDirectories
+  getExternalStorageDirectories
   getFirebaseInstanceId
   getFloat
   getGoogleAppId
@@ -2154,6 +2158,8 @@ Referenced Strings:
   getSourceNodeId
   getStackTraceDepth
   getStackTraceElement
+  getStorageDirectory
+  getTemporaryDirectory
   getTokens
   github.com
   givenName
@@ -2730,6 +2736,7 @@ Referenced Strings:
   plugins.flutter.io/firebase_auth
   plugins.flutter.io/firebase_core
   plugins.flutter.io/google_sign_in
+  plugins.flutter.io/path_provider
   plugins.flutter.io/shared_preferences
   pokeByte
   pokeByteArray

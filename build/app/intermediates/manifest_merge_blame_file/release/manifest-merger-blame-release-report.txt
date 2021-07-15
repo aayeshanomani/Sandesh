@@ -113,7 +113,7 @@
 73            android:directBootAware="true"
 73-->[com.google.firebase:firebase-common:19.3.0] /home/aayesha/.gradle/caches/transforms-2/files-2.1/b8e35444a479efe27ac595632e7f6a22/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
 74            android:exported="false" >
-74-->[com.google.firebase:firebase-auth:19.2.0] /home/aayesha/.gradle/caches/transforms-2/files-2.1/3fea6b72018b28b472cf7d10c03aabd6/firebase-auth-19.2.0/AndroidManifest.xml:35:13-37
+74-->[com.google.firebase:firebase-firestore:21.3.0] /home/aayesha/.gradle/caches/transforms-2/files-2.1/482529dba1c6b33f0f5f3359bc1cfa28/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:19:13-37
 75            <meta-data
 75-->[:cloud_firestore] /home/aayesha/codes/College/Projects/CNS Project/FlutterChatAppTutorial/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
 76                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
@@ -133,17 +133,17 @@
 83                android:value="com.google.firebase.components.ComponentRegistrar" />
 83-->[:firebase_core] /home/aayesha/codes/College/Projects/CNS Project/FlutterChatAppTutorial/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
 84            <meta-data
-84-->[com.google.firebase:firebase-auth:19.2.0] /home/aayesha/.gradle/caches/transforms-2/files-2.1/3fea6b72018b28b472cf7d10c03aabd6/firebase-auth-19.2.0/AndroidManifest.xml:36:13-38:85
-85                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-85-->[com.google.firebase:firebase-auth:19.2.0] /home/aayesha/.gradle/caches/transforms-2/files-2.1/3fea6b72018b28b472cf7d10c03aabd6/firebase-auth-19.2.0/AndroidManifest.xml:37:17-109
+84-->[com.google.firebase:firebase-firestore:21.3.0] /home/aayesha/.gradle/caches/transforms-2/files-2.1/482529dba1c6b33f0f5f3359bc1cfa28/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:20:13-22:85
+85                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+85-->[com.google.firebase:firebase-firestore:21.3.0] /home/aayesha/.gradle/caches/transforms-2/files-2.1/482529dba1c6b33f0f5f3359bc1cfa28/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:21:17-111
 86                android:value="com.google.firebase.components.ComponentRegistrar" />
-86-->[com.google.firebase:firebase-auth:19.2.0] /home/aayesha/.gradle/caches/transforms-2/files-2.1/3fea6b72018b28b472cf7d10c03aabd6/firebase-auth-19.2.0/AndroidManifest.xml:38:17-82
+86-->[com.google.firebase:firebase-firestore:21.3.0] /home/aayesha/.gradle/caches/transforms-2/files-2.1/482529dba1c6b33f0f5f3359bc1cfa28/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:22:17-82
 87            <meta-data
-87-->[com.google.firebase:firebase-firestore:21.3.0] /home/aayesha/.gradle/caches/transforms-2/files-2.1/482529dba1c6b33f0f5f3359bc1cfa28/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:20:13-22:85
-88                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-88-->[com.google.firebase:firebase-firestore:21.3.0] /home/aayesha/.gradle/caches/transforms-2/files-2.1/482529dba1c6b33f0f5f3359bc1cfa28/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:21:17-111
+87-->[com.google.firebase:firebase-auth:19.2.0] /home/aayesha/.gradle/caches/transforms-2/files-2.1/3fea6b72018b28b472cf7d10c03aabd6/firebase-auth-19.2.0/AndroidManifest.xml:36:13-38:85
+88                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+88-->[com.google.firebase:firebase-auth:19.2.0] /home/aayesha/.gradle/caches/transforms-2/files-2.1/3fea6b72018b28b472cf7d10c03aabd6/firebase-auth-19.2.0/AndroidManifest.xml:37:17-109
 89                android:value="com.google.firebase.components.ComponentRegistrar" />
-89-->[com.google.firebase:firebase-firestore:21.3.0] /home/aayesha/.gradle/caches/transforms-2/files-2.1/482529dba1c6b33f0f5f3359bc1cfa28/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:22:17-82
+89-->[com.google.firebase:firebase-auth:19.2.0] /home/aayesha/.gradle/caches/transforms-2/files-2.1/3fea6b72018b28b472cf7d10c03aabd6/firebase-auth-19.2.0/AndroidManifest.xml:38:17-82
 90            <meta-data
 90-->[com.google.android.gms:play-services-measurement-api:17.2.2] /home/aayesha/.gradle/caches/transforms-2/files-2.1/f83116d0690dd01225dbd5f211dc5390/play-services-measurement-api-17.2.2/AndroidManifest.xml:30:13-32:85
 91                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
