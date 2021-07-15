@@ -1,0 +1,4 @@
+#Thu Jul 15 20:09:52 IST 2021
+base.0=/home/aayesha/codes/College/Projects/CNS Project/FlutterChatAppTutorial/build/app/intermediates/transforms/r8/release/0/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
